@@ -1,5 +1,5 @@
 class First{
 public static void main(String[] args){
-System.out.println("Test Project");
+System.out.println("Test Project of Github WebHooks");
 }
 }
